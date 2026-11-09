@@ -4,7 +4,7 @@
 - Sergio Eduardo Posada Montiel
 - Koral Flores Ramirez
 - Jaime Levi Miranda Añorve
-- Nombre 4
+- Joshua Shaiel Duque Gonzales
 
 ## Problema
 Pasar lista a mano le quita tiempo a la clase y se presta a errores, como que el profesor le marque la asistencia a otro alumno.
@@ -13,11 +13,11 @@ Pasar lista a mano le quita tiempo a la clase y se presta a errores, como que el
 Profesores y alumnos de un salón de clases.
 
 ## Sensa
-Quién entra al salón, con una cámara que identifica la cara del alumno.
+- Al detectar a la persona marcara su asistencia en la plantilla de excel del profesor o le mandara una notificación al telefono, de igual manera saludara diciendo el nombre y accionando un servomotor que tendrá una mano.
 
 
 ## Responde
-- Qué hace al medir (LED, buzzer, servo, pantalla).
+•⁠ Al detectar a la persona marcara su asistencia en la plantilla de excel del profesor o le mandara una notificación al telefono, de igual manera saludara diciendo el nombre y accionando un servomotor que tendrá una mano.
 
 ## Fabricación
 Caja láser para la electrónica y pieza 3D para la mano que saluda, además del servomotor y bocina.

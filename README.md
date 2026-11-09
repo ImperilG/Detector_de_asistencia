@@ -1,30 +1,28 @@
+# Detector de asistencia
 
-# Nombre del proyecto
-
-**Equipo:** 
-	Sergio Eduardo Posada Montiel 
-	Koral Flores Ramirez
-	Nombre 3
-	Nombre 4
+**Equipo:**
+- Sergio Eduardo Posada Montiel
+- Koral Flores Ramirez
+- Jaime Levi Miranda Añorve
+- Nombre 4
 
 ## Problema
-Pasar lista a mano le quita tiempo a la clase y se presta a errores, como que el profesor le marque tu asistencia a otro alumno
-
+Pasar lista a mano le quita tiempo a la clase y se presta a errores, como que el profesor le marque la asistencia a otro alumno.
 
 ## Usuario
-A quién le pasa.
+Profesores y alumnos de un salón de clases.
 
-## Sensa 
-- Qué mide y con qué sensor
+## Sensa
+- Qué mide y con qué sensor.
 
 ## Responde
-- Qué hace al medir (LED, buzzer, servo, pantalla)
+- Qué hace al medir (LED, buzzer, servo, pantalla).
 
 ## Fabricación
-Caja de corte láser + qué pieza va impresa en 3D y para qué sirve.
+Caja láser para la electrónica y pieza 3D para la mano que saluda, además del servomotor y bocina.
 
 ## Nivel
-Hard mode
+Base, Pro o Hard mode (por definir).
 
 ## Declaración de uso de IA
-Usamos Claude (Anthropic) solo para que nos explicara los pasos para clonar el repositorio.
+Se utilizó ChatGPT para ayudar a combinar los cambios del README y resolver un conflicto de Git. Revisar y completar esta declaración antes de entregar.

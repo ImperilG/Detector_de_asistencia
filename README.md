@@ -3,7 +3,7 @@
 
 **Equipo:** 
 	Sergio Eduardo Posada Montiel 
-	Nombre Koral Flores Ramirez
+	Koral Flores Ramirez
 	Nombre 3
 	Nombre 4
 
@@ -14,8 +14,10 @@ Pasar lista a mano le quita tiempo a la clase y se presta a errores, como que el
 ## Usuario
 A quién le pasa.
 
-## Sensa / Responde
+## Sensa 
 - Qué mide y con qué sensor
+
+## Responde
 - Qué hace al medir (LED, buzzer, servo, pantalla)
 
 ## Fabricación

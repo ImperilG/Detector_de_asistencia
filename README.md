@@ -3,12 +3,13 @@
 
 **Equipo:** 
 	Sergio Eduardo Posada Montiel 
-	Nombre 2
+	Nombre Koral Flores Ramirez
 	Nombre 3
 	Nombre 4
 
 ## Problema
-Qué pasa hoy.
+Pasar lista a mano le quita tiempo a la clase y se presta a errores, como que el profesor le marque tu asistencia a otro alumno
+
 
 ## Usuario
 A quién le pasa.
@@ -21,7 +22,7 @@ A quién le pasa.
 Caja de corte láser + qué pieza va impresa en 3D y para qué sirve.
 
 ## Nivel
-Base, Pro o Hard mode
+Hard mode
 
 ## Declaración de uso de IA
-Qué herramienta usaron, qué le pidieron y qué cambiaron. Si no usaron, escríbanlo.
+Usamos Claude (Anthropic) solo para que nos explicara los pasos para clonar el repositorio.

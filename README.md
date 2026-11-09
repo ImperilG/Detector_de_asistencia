@@ -13,7 +13,8 @@ Pasar lista a mano le quita tiempo a la clase y se presta a errores, como que el
 Profesores y alumnos de un salón de clases.
 
 ## Sensa
-- Qué mide y con qué sensor.
+Quién entra al salón, con una cámara que identifica la cara del alumno.
+
 
 ## Responde
 - Qué hace al medir (LED, buzzer, servo, pantalla).
@@ -22,7 +23,7 @@ Profesores y alumnos de un salón de clases.
 Caja láser para la electrónica y pieza 3D para la mano que saluda, además del servomotor y bocina.
 
 ## Nivel
-Base, Pro o Hard mode (por definir).
+Hard mode
 
 ## Declaración de uso de IA
-Se utilizó ChatGPT para ayudar a combinar los cambios del README y resolver un conflicto de Git. Revisar y completar esta declaración antes de entregar.
+Usamos Claude para que nos explicara los pasos para clonar el repositorio y hacer commits. Un integrante usó ChatGPT para combinar los cambios del README y resolver un conflicto de Git.

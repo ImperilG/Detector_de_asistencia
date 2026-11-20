@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "xiao/pagina-web.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "pagina-web"
             }
           }
         ]
@@ -190,12 +190,21 @@
   },
   "active": "3443f08f06cb3bd6",
   "lastOpenFiles": [
-    "IMG_7699.jpg",
-    "xiao/IMG_7699.jpg",
-    "IMG_7703.MOV",
-    "xiao/IMG_7703.MOV",
-    "README.md",
+    "xiao/saludo_sergio.MOV",
+    "xiao/saludo.MOV",
+    "xiao/soldadura_sergio.jpg",
+    "xiao/soldadura_sergio2.jpg",
     "xiao/IMG_7698.jpg",
+    "xiao/IMG_7699.jpg",
+    "xiao/pagina-web.md",
+    "xiao/IMG_7703.MOV",
+    "xiao/soldadura2.png",
+    "xiao/soldadura.jpg",
+    "xiao/captura-pagina-web.PNG",
+    "captura-pagina-web.PNG",
+    "README.md",
+    "IMG_7699.jpg",
+    "IMG_7703.MOV",
     "xiao",
     "carpeta sin título",
     "xiao.md",

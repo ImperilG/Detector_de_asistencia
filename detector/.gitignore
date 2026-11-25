@@ -1,0 +1,12 @@
+rostros.pkl
+rostros_respaldo.pkl
+asistencia.xlsx
+sesion_actual.json
+ausentes.txt
+bin/
+lib/
+include/
+share/
+pyvenv.cfg
+__pycache__/
+.DS_Store

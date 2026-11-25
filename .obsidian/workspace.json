@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xiao/pagina-web.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pagina-web"
+              "title": "README"
             }
           }
         ]
@@ -188,26 +188,34 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "3443f08f06cb3bd6",
+  "active": "a15c3118173376e0",
   "lastOpenFiles": [
-    "xiao/saludo_sergio.MOV",
-    "xiao/saludo.MOV",
-    "xiao/soldadura_sergio.jpg",
-    "xiao/soldadura_sergio2.jpg",
-    "xiao/IMG_7698.jpg",
-    "xiao/IMG_7699.jpg",
+    "detector/~$asistencia.xlsx",
+    "detector/sesion_actual.json",
+    "detector/ausentes.txt",
+    "caja detector.dxf",
+    "detector/asistencia.xlsx",
+    "detector_asistencia_xiao/detector_asistencia_xiao.ino",
+    "detector_asistencia_xiao",
+    "detector_asistencia_xiao.ino",
+    "caja_detector/caja detector.dxf",
+    "caja/salida/cara_lateral_derecho.png",
+    "caja/salida/cara_frente.png",
+    "caja/salida/vista_previa.png",
+    "caja/salida/caja_completa.dxf",
+    "caja/salida/7_inserto_tapa.dxf",
+    "detector/venv/lib/python3.9/site-packages/matplotlib/mpl-data/sample_data/grace_hopper.jpg",
+    "detector/venv/lib/python3.9/site-packages/matplotlib/mpl-data/sample_data/logo2.png",
+    "detector/venv/lib/python3.9/site-packages/matplotlib/mpl-data/sample_data/Minduka_Present_Blue_Pack.png",
+    "detector/venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/zoom_to_rect.svg",
+    "detector/venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/zoom_to_rect_large.png",
+    "detector/venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/zoom_to_rect.png",
+    "detector/venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/subplots_large.png",
+    "detector/venv/lib/python3.9/site-packages/pyparsing/ai/best_practices.md",
+    "caja_detector/LEEME.md",
+    "xiao/pagina-web-koral.md",
     "xiao/pagina-web.md",
-    "xiao/IMG_7703.MOV",
-    "xiao/soldadura2.png",
-    "xiao/soldadura.jpg",
-    "xiao/captura-pagina-web.PNG",
-    "captura-pagina-web.PNG",
     "README.md",
-    "IMG_7699.jpg",
-    "IMG_7703.MOV",
-    "xiao",
-    "carpeta sin título",
-    "xiao.md",
-    "Detector_de_asistencia"
+    "xiao.md"
   ]
 }
